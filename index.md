@@ -4,7 +4,7 @@
 
 ### Recent Projects
 
-[Publication quality spectrum plot with microns and wavenumbers](/sample_page)
+[Publication quality spectrum plot with microns and wavenumbers](https://github.com/drwrenmontgomery/micron-wavenumber)
 <img src="images/wn-um-example.jpg?raw=true"/>
 
 ---
