@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Tracking a rolling ball in a diamond anvil cell](/pdf/sample_presentation.pdf)
+[Tracking a rolling ball in a diamond anvil cell to calculate viscosity](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
