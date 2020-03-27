@@ -8,7 +8,7 @@
 <img src="images/wn-um-example.jpg?raw=true"/>
 
 ---
-[Tracking a rolling ball in a diamond anvil cell to calculate viscosity](/pdf/sample_presentation.pdf)
+[Tracking a rolling ball in a diamond anvil cell to calculate viscosity](https://github.com/drwrenmontgomery/rolling-sphere)
 <img src="images/velocity_final.gif"/>
 
 ---
