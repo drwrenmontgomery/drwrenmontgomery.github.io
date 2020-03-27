@@ -12,7 +12,7 @@
 <img src="images/velocity_final.gif"/>
 
 ---
-[platform independent FTIR data analysis tools](https://github.com/drwrenmontgomery/HiPressureFTIR)
+[platform independent FTIR data presentation and analysis tools](https://github.com/drwrenmontgomery/HiPressureFTIR)
 <img src="images/hiPTexample.jpg?raw=true"/>
 
 ---
