@@ -9,7 +9,7 @@
 
 ---
 [Tracking a rolling ball in a diamond anvil cell to calculate viscosity](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/velocity_final.gif"/>
 
 ---
 [platform independent FTIR data analysis tools](https://github.com/drwrenmontgomery/HiPressureFTIR)
