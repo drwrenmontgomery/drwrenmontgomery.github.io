@@ -4,8 +4,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   platform-independent data analysis of FTIR spectra using python
   <br><br>
   tested on organic molecules and minerals relevant to astrophysics, prebiotic chemistry, high pressures, biomimetic polymers, and others
-  <br><br>
-  <a href="https://www.imperial.ac.uk/people/w.montgomery"> View my professional webage</a>
+  #<br><br>
+  #<a href="https://www.imperial.ac.uk/people/w.montgomery"> View my professional webage</a>
   <br><br>
   <a href="https://orcid.org/0000-0002-8076-8575"> View my publication list</a>
   <br><br>
