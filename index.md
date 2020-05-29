@@ -8,11 +8,11 @@
 <img src="images/wn-um-example.jpg?raw=true"/>
 
 ---
-[Tracking a rolling ball in a diamond anvil cell to calculate viscosity](https://github.com/drwrenmontgomery/rolling-sphere)
+[Tracking a rolling ball in a diamond anvil cell to calculate viscosity](https://drwrenmontgomery.github.io/rolling-sphere)
 <img src="images/velocity_final.gif"/>
 
 ---
-[Platform independent FTIR data presentation and analysis tools](https://github.com/drwrenmontgomery/HiPressureFTIR)
+[Platform independent FTIR data presentation and analysis tools](https://drwrenmontgomery.github.io/HiPressureFTIR)
 <img src="images/hiPTexample.jpg?raw=true"/>
 
 ---
