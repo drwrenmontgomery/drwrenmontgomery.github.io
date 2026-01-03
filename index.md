@@ -4,7 +4,7 @@
 
 ### Recent Projects
 
-[Viewing and segmenting microCT data slices](https://drwrenmontgomery.github.io/microT-sandbox/)
+[Viewing and segmenting microCT data slices](https://drwrenmontgomery.github.io/microT-sandbox/)<img src="images/microCT.jpg?raw=true"/>
 
 ---
 
